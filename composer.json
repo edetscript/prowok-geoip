@@ -1,0 +1,17 @@
+{
+    "name": "usefulsomebody/geoip",
+    "description": "Get location information from IP",
+    "authors": [
+        {
+            "name": "Abednego Edet",
+            "email": "asapabedi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Usefulsomebody\\Geoip\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
